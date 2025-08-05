@@ -1,0 +1,29 @@
+# Build
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE e VSCode
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Banco de dados local
+*.db
+
+# Configurações locais
+*.env
+*.local.json
+
+# Backups
+*.bak
+*.tmp
+*.temp
